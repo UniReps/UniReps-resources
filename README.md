@@ -16,9 +16,9 @@ Join us on Slack!
 
 ### Computational Neuroscience
 
-[Dayan & Abbott’s Theoretical Neuroscience textbook](http://www.gatsby.ucl.ac.uk/~dayan/book/)
-[Gerstner’s Neuronal Dynamics textbook](https://neuronaldynamics.epfl.ch)
-[Principles of Computational Modelling in Neuroscience](https://www.cambridge.org/us/universitypress/subjects/life-sciences/neuroscience/principles-computational-modelling-neuroscience#I1SF2c5dOfZ12Fr0.97)
+* [Dayan & Abbott’s Theoretical Neuroscience textbook](http://www.gatsby.ucl.ac.uk/~dayan/book/)
+* [Gerstner’s Neuronal Dynamics textbook](https://neuronaldynamics.epfl.ch)
+* [Principles of Computational Modelling in Neuroscience](https://www.cambridge.org/us/universitypress/subjects/life-sciences/neuroscience/principles-computational-modelling-neuroscience#I1SF2c5dOfZ12Fr0.97)
 
 
 ## Conferences and Workshops
