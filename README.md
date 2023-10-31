@@ -51,10 +51,10 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Title | Venue |
 |-|-|
 | [Similarity of Neural Network Representations Revisited](https://arxiv.org/abs/1905.00414) | ICML 2019 |
-| Generalized Shape Metrics on Neural Representations | N/A |
-| Grounding Representation Similarity with Statistical Testing | arXiv [cs.LG] |
+| [Generalized Shape Metrics on Neural Representations](https://arxiv.org/abs/2110.14739) | NeurIPS 2021 |
+| [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/abs/2108.01661) | NeurIPS 2021 |
 | Measuring similarity for clarifying layer difference in multiplex ad hoc duplex information networks | J. Informetr. |
- Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy | Mach. Learn. |
+| Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy | Mach. Learn. |
 | Transferred Discrepancy: Quantifying the Difference Between Representations | arXiv [cs.LG] |
 | Diversity creation methods: a survey and categorisation | Inf. Fusion |
 | An analysis of diversity measures | Mach. Learn. |
