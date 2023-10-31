@@ -63,13 +63,33 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Representation Topology Divergence: A Method for Comparing Neural Network Representations | N/A |
 | Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics | arXiv [cs.LG] |
 | Understanding image representations by measuring their equivariance and equivalence | N/A |
+| Reliability of CKA as a Similarity Measure in Deep Learning | arXiv [cs.LG] |
+| Insights on representational similarity in neural networks with canonical correlation | N/A |
+| Understanding metric-related pitfalls in image analysis validation | arXiv [cs.CV] |
+| Revisiting Model Stitching to Compare Neural Representations | N/A |
+| Similarity and Matching of Neural Network Representations | N/A |
+| Topology of Deep Neural Networks | J. Mach. Learn. Res. |
+| Representational dissimilarity metric spaces for stochastic neural networks | arXiv [cs.LG] |
+| Graph-Based Similarity of Neural Network Representations | arXiv [cs.LG] |
+| Adaptive Geo-Topological Independence Criterion | arXiv [stat.ML] |
+| Using distance on the Riemannian manifold to compare representations in brain and in models | Neuroimage |
+| Predictive Multiplicity in Classification | N/A |
+| Rashomon Capacity: A Metric for Predictive Multiplicity in Classification | arXiv [cs.LG] |
+| Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing | arXiv [cs.LG] |
+| SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability | N/A |
+| Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance | N/A |
 
-### Zero-shot alignment
+### Alignment and zero-shot alignment
 
 | Title | Venue |
 |--------------------------------------------------|-|
 | [Relative representations enable zero-shot latent space communication](https://arxiv.org/abs/2209.15430) | ICLR 2023 |
 | [ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training](https://arxiv.org/abs/2210.01738) | NeurIPS 2023 |
+| [Manifold alignment using Procrustes analysis](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1061&context=cs_faculty_pubs) | N/A |
+| [Bootstrapping Parallel Anchors for Relative Representations](https://arxiv.org/abs/2303.00721) | arXiv [cs.LG] |
+| Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages | arXiv [cs.CL] |
+| GeRA: Label-Efficient Geometrically Regularized Alignment | N/A |
+| Text-To-Concept (and Back) via Cross-Model Alignment | arXiv [cs.CV] |
 
 ### Contrastive learning
 
@@ -79,6 +99,9 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning | NeurIPS 2022 |
 | [ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding](https://arxiv.org/abs/2212.05171) | CVPR 2023 |
 | [Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model](https://arxiv.org/abs/2310.17653) | N/A |
+| [Identifiability Results for Multimodal Contrastive Learning](https://arxiv.org/abs/2303.09166) | ICLR 2023 |
+| UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning | N/A |
+| Understanding the Behaviour of Contrastive Loss | N/A |
 
 ### Linear mode connectivity and model merging
 
@@ -93,6 +116,18 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Traversing Between Modes in Function Space for Fast Ensembling | arXiv [cs.LG] |
 | An Empirical Study of Multimodal Model Merging | arXiv [cs.CV] |
 | Linear Mode Connectivity and the Lottery Ticket Hypothesis | N/A |
+| Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling | N/A |
+| Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs | N/A |
+| The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks | N/A |
+| Essentially No Barriers in Neural Network Energy Landscape | N/A |
+
+### Neuroscience
+
+| Title | Venue |
+|-|-|
+| Representational similarity analysis - connecting the branches of systems neuroscience | Front. Syst. Neurosci. |
+| What makes different people's representations alike: neural similarity space solves the problem of across-subject fMRI decoding | J. Cogn. Neurosci. |
+| Distributed and overlapping representations of faces and objects in ventral temporal cortex | Science |
 
 ### Other -- to be sorted
 
@@ -102,32 +137,19 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Do Vision Transformers See Like Convolutional Neural Networks? | N/A |
 | Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth | N/A |
 | LiT: Zero-Shot Transfer with Locked-image text Tuning | arXiv [cs.CV] |
-| Bootstrapping Parallel Anchors for Relative Representations | arXiv [cs.LG] |
-| Revisiting Model Stitching to Compare Neural Representations | N/A |
-| Similarity and Matching of Neural Network Representations | N/A |
-| Topology of Deep Neural Networks | J. Mach. Learn. Res. |
 | On Linear Identifiability of Learned Representations | N/A |
 | Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation | N/A |
-| Identifiability Results for Multimodal Contrastive Learning | arXiv [cs.LG] |
-| Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time | N/A |
-| The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks | N/A |
-| Editing Models with Task Arithmetic | arXiv [cs.LG] |
+| [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | ICML 2022 |
+| [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | ICLR 2023 |
 | Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models | arXiv [cs.LG] |
 | RNNs of RNNs: Recursive Construction of Stable Assemblies of Recurrent Neural Networks | arXiv [cs.LG] |
 | Invariant Risk Minimization | arXiv [stat.ML] |
 | Neural networks learn to magnify areas near decision boundaries | arXiv [cs.LG] |
 | On a Novel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Learning | arXiv [cs.CL] |
-| Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling | N/A |
-| Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs | N/A |
-| Essentially No Barriers in Neural Network Energy Landscape | N/A |
 | Topology and Geometry of Half-Rectified Network Optimization | N/A |
 | Qualitatively characterizing neural network optimization problems | N/A |
 | On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima | N/A |
-| Reliability of CKA as a Similarity Measure in Deep Learning | arXiv [cs.LG] |
-| Insights on representational similarity in neural networks with canonical correlation | N/A |
-| Distributed and overlapping representations of faces and objects in ventral temporal cortex | Science |
 | Content and cluster analysis: Assessing representational similarity in neural systems | Philos. Psychol. |
-| What makes different people's representations alike: neural similarity space solves the problem of across-subject fMRI decoding | J. Cogn. Neurosci. |
 | Contrastive Multiview Coding | arXiv [cs.CV] |
 | Similarity of Neural Network Models: A Survey of Functional and Representational Measures | arXiv [cs. LG] |
 | High-dimensional dynamics of generalization error in neural networks | arXiv [stat.ML] |
@@ -145,47 +167,29 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Convergent Learning: Do different neural networks learn the same representations? | N/A |
 | Controlling Text-to-Image Diffusion by Orthogonal Finetuning | arXiv [cs.CV] |
 | CLIPMasterPrints: Fooling Contrastive Language-Image Pre-training Using Latent Variable Evolution | arXiv [cs.CV] |
-| Manifold alignment using Procrustes analysis | N/A |
-| SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability | N/A |
-| Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance | N/A |
 | On the Symmetries of Deep Learning Models and their Internal Representations | arXiv [cs.LG] |
 | Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change | N/A |
 | The Effects of Randomness on the Stability of Node Embeddings | arXiv [cs.LG] |
-| Representational dissimilarity metric spaces for stochastic neural networks | arXiv [cs.LG] |
-| Representational similarity analysis - connecting the branches of systems neuroscience | Front. Syst. Neurosci. |
 | Representation of object similarity in human vision: psychophysics and a computational model | Vision Res. |
-| Graph-Based Similarity of Neural Network Representations | arXiv [cs.LG] |
-| Using distance on the Riemannian manifold to compare representations in brain and in models | Neuroimage |
 | Mechanistic Mode Connectivity | arXiv [cs.LG] |
-| Adaptive Geo-Topological Independence Criterion | arXiv [stat.ML] |
-| Measuring and testing dependence by correlation of distances | arXiv [math.ST] |
 | Feature learning in deep classifiers through Intermediate Neural Collapse | N/A |
 | Bootstrapping Vision-Language Learning with Decoupled Language Pre-training | arXiv [cs.CV] |
 | Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning | N/A |
-| UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning | N/A |
-| Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing | arXiv [cs.LG] |
-| Understanding the Behaviour of Contrastive Loss | N/A |
 | Clustering units in neural networks: upstream vs downstream information | arXiv [cs.LG] |
-| Understanding metric-related pitfalls in image analysis validation | arXiv [cs.CV] |
 | Launch and Iterate: Reducing Prediction Churn | N/A |
 | Model Stability with Continuous Data Updates | arXiv [cs.CL] |
 | Anti-Distillation: Improving reproducibility of deep networks | arXiv [cs.LG] |
 | On the Reproducibility of Neural Network Predictions | arXiv [cs.LG] |
 | Deep Ensembles: A Loss Landscape Perspective | arXiv [stat.ML] |
 | Measuring the Instability of Fine-Tuning | arXiv [cs. CL] |
-| Predictive Multiplicity in Classification | N/A |
-| Rashomon Capacity: A Metric for Predictive Multiplicity in Classification | arXiv [cs.LG] |
 | mCLIP: Multilingual CLIP via Cross-lingual Transfer | N/A |
 | Learning to Decompose Visual Features with Latent Textual Prompts | arXiv [cs.CV] |
-| Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages | arXiv [cs.CL] |
 | Leveraging Task Structures for Improved Identifiability in Neural Network Representations | ArXiv preprint |
 | Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation | arXiv [cs.LG] |
 | Substance or Style: What Does Your Image Embedding Know? | arXiv [cs.LG] |
 | On Privileged and Convergent Bases in Neural Network Representations | arXiv [cs.LG] |
-| Text-To-Concept (and Back) via Cross-Model Alignment | arXiv [cs.CV] |
 | Stitchable Neural Networks | arXiv [cs.LG] |
 | A Multi-View Embedding Space for Modeling Internet Images, Tags, and their Semantics | arXiv [cs.CV] |
 | Policy Stitching: Learning Transferable Robot Policies | arXiv [cs.RO] |
-| GeRA: Label-Efficient Geometrically Regularized Alignment | N/A |
 | Deep Incubation: Training Large Models by Divide-and-Conquering | arXiv [cs.CV] |
 | Flamingo: a Visual Language Model for Few-Shot Learning | arXiv [cs.CV] |
