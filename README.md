@@ -53,8 +53,9 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Similarity of Neural Network Representations Revisited](https://arxiv.org/abs/1905.00414) | ICML 2019 |
 | [Generalized Shape Metrics on Neural Representations](https://arxiv.org/abs/2110.14739) | NeurIPS 2021 |
 | [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/abs/2108.01661) | NeurIPS 2021 |
-| Measuring similarity for clarifying layer difference in multiplex ad hoc duplex information networks | J. Informetr. |
-| Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy | Mach. Learn. |
+| [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability](https://arxiv.org/abs/1706.05806) | NeurIPS 2017 |
+| [Measuring similarity for clarifying layer difference in multiplex ad hoc duplex information networks](https://www.sciencedirect.com/science/article/abs/pii/S1751157719301890) | J. Informetr. |
+| [Reliability of CKA as a Similarity Measure in Deep Learning](https://arxiv.org/abs/2210.16156) | ICLR 2023 |
 | Transferred Discrepancy: Quantifying the Difference Between Representations | arXiv [cs.LG] |
 | Diversity creation methods: a survey and categorisation | Inf. Fusion |
 | An analysis of diversity measures | Mach. Learn. |
@@ -63,7 +64,6 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Representation Topology Divergence: A Method for Comparing Neural Network Representations | N/A |
 | Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics | arXiv [cs.LG] |
 | Understanding image representations by measuring their equivariance and equivalence | N/A |
-| Reliability of CKA as a Similarity Measure in Deep Learning | arXiv [cs.LG] |
 | Insights on representational similarity in neural networks with canonical correlation | N/A |
 | Understanding metric-related pitfalls in image analysis validation | arXiv [cs.CV] |
 | Revisiting Model Stitching to Compare Neural Representations | N/A |
@@ -76,8 +76,8 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Predictive Multiplicity in Classification | N/A |
 | Rashomon Capacity: A Metric for Predictive Multiplicity in Classification | arXiv [cs.LG] |
 | Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing | arXiv [cs.LG] |
-| SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability | N/A |
 | Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance | N/A |
+| [Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy](https://dl.acm.org/doi/10.1023/A%3A1022859003006) | Mach. Learn. |
 
 ### Alignment and zero-shot alignment
 
