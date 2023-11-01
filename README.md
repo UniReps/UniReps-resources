@@ -9,7 +9,7 @@ December 15th 2023
 ## Introduction
 
 We've gathered here a comprehensive set of resources on the mechanisms,
-and extent of similarity in internal representationsrepresentation, for deep learning and neuroscience. Check it out and contribute with a pull request!
+and extent of similarity in internal representations, for deep learning and neuroscience. Check it out and contribute with a pull request!
 
 Join us on Slack!
 
