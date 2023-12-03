@@ -172,24 +172,24 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [The Effects of Randomness on the Stability of Node Embeddings](https://arxiv.org/abs/2005.10039) | arXiv [cs.LG] |
 | [Representation of object similarity in human vision: psychophysics and a computational model](https://www.sciencedirect.com/user/identity/landing?code=UF-keJ3a_As5aXGU4SfzIyz5Oe7hYhpdIQlxXpH0&state=retryCounter%3D0%26csrfToken%3D5bfa1a3e-8181-406b-a211-7c0aa7bdfee8%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698997001867%26prompt%3Dnone%26cid%3Darp-5591a3ec-5924-4f10-a530-5f1f2785fd1b) | Vision Res. |
 | [Mechanistic Mode Connectivity](https://arxiv.org/abs/2211.08422) | arXiv [cs.LG] |
-| Feature learning in deep classifiers through Intermediate Neural Collapse | N/A |
-| Bootstrapping Vision-Language Learning with Decoupled Language Pre-training | arXiv [cs.CV] |
-| Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning | N/A |
-| Clustering units in neural networks: upstream vs downstream information | arXiv [cs.LG] |
-| Launch and Iterate: Reducing Prediction Churn | N/A |
-| Model Stability with Continuous Data Updates | arXiv [cs.CL] |
-| Anti-Distillation: Improving reproducibility of deep networks | arXiv [cs.LG] |
-| On the Reproducibility of Neural Network Predictions | arXiv [cs.LG] |
-| Deep Ensembles: A Loss Landscape Perspective | arXiv [stat.ML] |
-| Measuring the Instability of Fine-Tuning | arXiv [cs. CL] |
-| mCLIP: Multilingual CLIP via Cross-lingual Transfer | N/A |
-| Learning to Decompose Visual Features with Latent Textual Prompts | arXiv [cs.CV] |
-| Leveraging Task Structures for Improved Identifiability in Neural Network Representations | ArXiv preprint |
-| Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation | arXiv [cs.LG] |
-| Substance or Style: What Does Your Image Embedding Know? | arXiv [cs.LG] |
-| On Privileged and Convergent Bases in Neural Network Representations | arXiv [cs.LG] |
-| Stitchable Neural Networks | arXiv [cs.LG] |
-| A Multi-View Embedding Space for Modeling Internet Images, Tags, and their Semantics | arXiv [cs.CV] |
-| Policy Stitching: Learning Transferable Robot Policies | arXiv [cs.RO] |
-| Deep Incubation: Training Large Models by Divide-and-Conquering | arXiv [cs.CV] |
-| Flamingo: a Visual Language Model for Few-Shot Learning | arXiv [cs.CV] |
+| [Feature learning in deep classifiers through Intermediate Neural Collapse](https://proceedings.mlr.press/v202/rangamani23a.html) | PMLR |
+| [Bootstrapping Vision-Language Learning with Decoupled Language Pre-training](https://arxiv.org/abs/2307.07063) | arXiv [cs.CV] |
+| [Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning](https://arxiv.org/abs/2206.08347) | arXiv  |
+| [Clustering units in neural networks: upstream vs downstream information](https://arxiv.org/abs/2203.11815) | arXiv [cs.LG] |
+| [Launch and Iterate: Reducing Prediction Churn](https://papers.nips.cc/paper_files/paper/2016/hash/dc5c768b5dc76a084531934b34601977-Abstract.html) | N/A |
+| [Model Stability with Continuous Data Updates](https://arxiv.org/abs/2201.05692) | arXiv [cs.CL] |
+| [Anti-Distillation: Improving reproducibility of deep networks](https://arxiv.org/abs/2010.09923) | arXiv [cs.LG] |
+| [On the Reproducibility of Neural Network Predictions](https://arxiv.org/abs/2102.03349) | arXiv [cs.LG] |
+| [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/abs/1912.02757) | arXiv [stat.ML] |
+| [Measuring the Instability of Fine-Tuning] | arXiv [cs. CL] |
+| [mCLIP: Multilingual CLIP via Cross-lingual Transfer](https://aclanthology.org/2023.acl-long.728/#:~:text=Large%2Dscale%20vision%2Dlanguage%20pretrained,%2DEnglish%20image%2Dtext%20pairs.) | N/A |
+| [Learning to Decompose Visual Features with Latent Textual Prompts](https://arxiv.org/abs/2210.04287) | arXiv [cs.CV] |
+| [Leveraging Task Structures for Improved Identifiability in Neural Network Representations](https://arxiv.org/abs/2306.14861) | ArXiv preprint |
+| [Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation](https://arxiv.org/abs/2307.02598) | arXiv [cs.LG] |
+| [Substance or Style: What Does Your Image Embedding Know?](https://arxiv.org/abs/2307.05610#:~:text=Probes%20are%20small%20networks%20that,the%20information%20contained%20in%20embeddings.) | arXiv [cs.LG] |
+| [On Privileged and Convergent Bases in Neural Network Representations](https://arxiv.org/abs/2307.12941) | arXiv [cs.LG] |
+| [Stitchable Neural Networks](https://arxiv.org/abs/2302.06586) | arXiv [cs.LG] |
+| [A Multi-View Embedding Space for Modeling Internet Images, Tags, and their Semantics](https://arxiv.org/abs/1212.4522) | arXiv [cs.CV] |
+| [Policy Stitching: Learning Transferable Robot Policies](https://arxiv.org/abs/2309.13753#:~:text=We%20propose%20Policy%20Stitching%2C%20a,representations%20between%20the%20modular%20interfaces.) | arXiv [cs.RO] |
+| [Deep Incubation: Training Large Models by Divide-and-Conquering](https://arxiv.org/abs/2212.04129) | arXiv [cs.CV] |
+| [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) | arXiv [cs.CV] |
