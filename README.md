@@ -134,11 +134,11 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Title | Venue |
 |--------------------------------------------------|-|
 | [Domain Translation via Latent Space Mapping](https://arxiv.org/abs/2212.03361) |IJCNN 2023 |
-| [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810) | N/A |
-| [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327) | N/A |
+| [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810) | arXiv |
+| [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327) | arXiv |
 | [LiT: Zero-Shot Transfer with Locked-image text Tuning](https://arxiv.org/abs/2111.07991) | arXiv [cs.CV] |
 | [On Linear Identifiability of Learned Representations](https://arxiv.org/abs/2007.00810) | N/A |
-| [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://www.researchgate.net/publication/328598982_Towards_Understanding_Learning_Representations_To_What_Extent_Do_Different_Neural_Networks_Learn_the_Same_Representation) | N/A |
+| [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://www.researchgate.net/publication/328598982_Towards_Understanding_Learning_Representations_To_What_Extent_Do_Different_Neural_Networks_Learn_the_Same_Representation) | arXiv |
 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | ICML 2022 |
 | [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | ICLR 2023 |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://arxiv.org/abs/2305.12827) | arXiv [cs.LG] |
@@ -146,21 +146,21 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893) | arXiv [stat.ML] |
 | [Neural networks learn to magnify areas near decision boundaries](https://arxiv.org/abs/2301.11375) | arXiv [cs.LG] |
 | [On a Novel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Learning](https://arxiv.org/abs/2007.09456#:~:text=18%20Jul%202020%5D-,On%20a%20Novel%20Application%20of%20Wasserstein,for%20Unsupervised%20Cross%2DLingual%20Learning&text=The%20emergence%20of%20unsupervised%20word,Natural%20Language%20Processing%20(NLP).) | arXiv [cs.CL] |
-| [Topology and Geometry of Half-Rectified Network Optimization](https://arxiv.org/abs/1611.01540) | N/A |
-| [Qualitatively characterizing neural network optimization problems](https://arxiv.org/abs/1412.6544) | N/A |
-| [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) | N/A |
+| [Topology and Geometry of Half-Rectified Network Optimization](https://arxiv.org/abs/1611.01540) | arXiv |
+| [Qualitatively characterizing neural network optimization problems](https://arxiv.org/abs/1412.6544) |arXiv |
+| [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) | arXiv |
 | [Content and cluster analysis: Assessing representational similarity in neural systems](https://www.tandfonline.com/doi/abs/10.1080/09515080050002726) | Philos. Psychol. |
 | [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849) | arXiv [cs.CV] |
-| Similarity of Neural Network Models: A Survey of Functional and Representational Measures | arXiv [cs. LG] |
-| High-dimensional dynamics of generalization error in neural networks | arXiv [stat.ML] |
-| Exact solutions to the nonlinear dynamics of learning in deep linear neural networks | N/A |
-| Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN) | N/A |
-| Nonlinear ICA Using Auxiliary Variables and Generalized Contrastive Learning | N/A |
-| Variational Autoencoders and Nonlinear ICA: A Unifying Framework | N/A |
-| Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks | N/A |
-| Modular Networks: Learning to Decompose Neural Computation | N/A |
-| Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization | arXiv [cs.LG] |
-| High-resolution image reconstruction with latent diffusion models from human brain activity | N/A |
+| [Similarity of Neural Network Models: A Survey of Functional and Representational Measures](https://arxiv.org/abs/2305.06329) | arXiv [cs. LG] |
+| [High-dimensional dynamics of generalization error in neural networks](https://arxiv.org/abs/1710.03667) | arXiv [stat.ML] |
+| [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](https://arxiv.org/abs/1312.6120) | arXiv  |
+| [Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN)](https://arxiv.org/abs/2001.04872) | arXiv  |
+| [Nonlinear ICA Using Auxiliary Variables and Generalized Contrastive Learning](https://arxiv.org/abs/1805.08651) | arXiv |
+| [Variational Autoencoders and Nonlinear ICA: A Unifying Framework](https://arxiv.org/abs/1907.04809) | arXiv |
+| [Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks](https://openreview.net/forum?id=7uVcpu-gMD) | N/A |
+| [Modular Networks: Learning to Decompose Neural Computation](https://arxiv.org/abs/1811.05249) | arXiv |
+| [Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization](https://arxiv.org/abs/2212.10445) | arXiv [cs.LG] |
+| [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3) | BioArxiv |
 | Alignment with human representations supports robust few-shot learning | arXiv [cs.LG] |
 | SHARCS: Shared Concept Space for Explainable Multimodal Learning | arXiv [cs. LG] |
 | Prevalence of Neural Collapse during the terminal phase of deep learning training | arXiv [cs.LG] |
