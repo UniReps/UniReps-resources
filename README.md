@@ -87,9 +87,9 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training](https://arxiv.org/abs/2210.01738) | NeurIPS 2023 |
 | [Manifold alignment using Procrustes analysis](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1061&context=cs_faculty_pubs) | N/A |
 | [Bootstrapping Parallel Anchors for Relative Representations](https://arxiv.org/abs/2303.00721) | arXiv [cs.LG] |
-| Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages | arXiv [cs.CL] |
-| GeRA: Label-Efficient Geometrically Regularized Alignment | N/A |
-| Text-To-Concept (and Back) via Cross-Model Alignment | arXiv [cs.CV] |
+| [Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages(https://arxiv.org/abs/2306.16774)] | arXiv [cs.CL] |
+| [GeRA: Label-Efficient Geometrically Regularized Alignment](https://arxiv.org/abs/2310.00672#:~:text=Pretrained%20unimodal%20encoders%20incorporate%20rich,data%20for%20alignment%20and%20training.) | N/A |
+| [Text-To-Concept (and Back) via Cross-Model Alignment](https://arxiv.org/abs/2305.06386) | arXiv [cs.CV] |
 
 ### Contrastive learning
 
@@ -115,19 +115,19 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Optimizing Mode Connectivity via Neuron Alignment](https://proceedings.neurips.cc/paper/2020/file/aecad42329922dfc97eee948606e1f8e-Paper.pdf) | arXiv |
 | [Traversing Between Modes in Function Space for Fast Ensembling](https://arxiv.org/abs/2306.11304) | arXiv [cs.LG] |
 | [An Empirical Study of Multimodal Model Merging](https://arxiv.org/abs/2304.14933) | arXiv [cs.CV] |
-| [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671) | N/A |
-| Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling | N/A |
-| Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs | N/A |
-| The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks | N/A |
-| Essentially No Barriers in Neural Network Energy Landscape | N/A |
+| [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671) | arXiv |
+| [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) | arXiv |
+| [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs) | arXiv |
+| [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://arxiv.org/abs/2110.06296) | arXiv |
+| [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/abs/1803.00885) | arXiv |
 
 ### Neuroscience
 
 | Title | Venue |
 |-|-|
-| Representational similarity analysis - connecting the branches of systems neuroscience | Front. Syst. Neurosci. |
-| What makes different people's representations alike: neural similarity space solves the problem of across-subject fMRI decoding | J. Cogn. Neurosci. |
-| Distributed and overlapping representations of faces and objects in ventral temporal cortex | Science |
+| [Representational similarity analysis - connecting the branches of systems neuroscience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2605405/) | Front. Syst. Neurosci. |
+| [What makes different people's representations alike: neural similarity space solves the problem of across-subject fMRI decoding](https://pubmed.ncbi.nlm.nih.gov/22220728/) | J. Cogn. Neurosci. |
+| [Distributed and overlapping representations of faces and objects in ventral temporal cortex](https://pubmed.ncbi.nlm.nih.gov/11577229/) | Science |
 
 ### Other -- to be sorted
 
