@@ -87,7 +87,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training](https://arxiv.org/abs/2210.01738) | NeurIPS 2023 |
 | [Manifold alignment using Procrustes analysis](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1061&context=cs_faculty_pubs) | arXiv |
 | [Bootstrapping Parallel Anchors for Relative Representations](https://arxiv.org/abs/2303.00721) | arXiv [cs.LG] |
-| [Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages(https://arxiv.org/abs/2306.16774)] | arXiv [cs.CL] |
+| [Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages](https://arxiv.org/abs/2306.16774) | arXiv [cs.CL] |
 | [GeRA: Label-Efficient Geometrically Regularized Alignment](https://arxiv.org/abs/2310.00672#:~:text=Pretrained%20unimodal%20encoders%20incorporate%20rich,data%20for%20alignment%20and%20training.) | arXiv |
 | [Text-To-Concept (and Back) via Cross-Model Alignment](https://arxiv.org/abs/2305.06386) | arXiv [cs.CV] |
 
@@ -141,16 +141,16 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://www.researchgate.net/publication/328598982_Towards_Understanding_Learning_Representations_To_What_Extent_Do_Different_Neural_Networks_Learn_the_Same_Representation) | N/A |
 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | ICML 2022 |
 | [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | ICLR 2023 |
-| Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models | arXiv [cs.LG] |
-| RNNs of RNNs: Recursive Construction of Stable Assemblies of Recurrent Neural Networks | arXiv [cs.LG] |
-| Invariant Risk Minimization | arXiv [stat.ML] |
-| Neural networks learn to magnify areas near decision boundaries | arXiv [cs.LG] |
-| On a Novel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Learning | arXiv [cs.CL] |
-| Topology and Geometry of Half-Rectified Network Optimization | N/A |
-| Qualitatively characterizing neural network optimization problems | N/A |
-| On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima | N/A |
-| Content and cluster analysis: Assessing representational similarity in neural systems | Philos. Psychol. |
-| Contrastive Multiview Coding | arXiv [cs.CV] |
+| [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://arxiv.org/abs/2305.12827) | arXiv [cs.LG] |
+| [RNNs of RNNs: Recursive Construction of Stable Assemblies of Recurrent Neural Networks](https://arxiv.org/abs/2106.08928) | arXiv [cs.LG] |
+| [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893) | arXiv [stat.ML] |
+| [Neural networks learn to magnify areas near decision boundaries](https://arxiv.org/abs/2301.11375) | arXiv [cs.LG] |
+| [On a Novel Application of Wasserstein-Procrustes for Unsupervised Cross-Lingual Learning](https://arxiv.org/abs/2007.09456#:~:text=18%20Jul%202020%5D-,On%20a%20Novel%20Application%20of%20Wasserstein,for%20Unsupervised%20Cross%2DLingual%20Learning&text=The%20emergence%20of%20unsupervised%20word,Natural%20Language%20Processing%20(NLP).) | arXiv [cs.CL] |
+| [Topology and Geometry of Half-Rectified Network Optimization](https://arxiv.org/abs/1611.01540) | N/A |
+| [Qualitatively characterizing neural network optimization problems](https://arxiv.org/abs/1412.6544) | N/A |
+| [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836) | N/A |
+| [Content and cluster analysis: Assessing representational similarity in neural systems](https://www.tandfonline.com/doi/abs/10.1080/09515080050002726) | Philos. Psychol. |
+| [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849) | arXiv [cs.CV] |
 | Similarity of Neural Network Models: A Survey of Functional and Representational Measures | arXiv [cs. LG] |
 | High-dimensional dynamics of generalization error in neural networks | arXiv [stat.ML] |
 | Exact solutions to the nonlinear dynamics of learning in deep linear neural networks | N/A |
