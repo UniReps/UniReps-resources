@@ -67,7 +67,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Insights on representational similarity in neural networks with canonical correlation](https://arxiv.org/abs/1806.05759) | arXiv |
 | [Understanding metric-related pitfalls in image analysis validation](https://arxiv.org/abs/2302.01790) | arXiv [cs.CV] |
 | [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/abs/2106.07682) | arXiv  |
-| [Similarity and Matching of Neural Network Representations](https://arxiv.org/abs/2110.14633) | N/A |
+| [Similarity and Matching of Neural Network Representations](https://arxiv.org/abs/2110.14633) | arXiv |
 | [Topology of Deep Neural Networks](https://arxiv.org/abs/2110.14633) | J. Mach. Learn. Res. |
 | [Representational dissimilarity metric spaces for stochastic neural networks](https://arxiv.org/abs/2211.11665) | arXiv [cs.LG] |
 | [Graph-Based Similarity of Neural Network Representations](https://arxiv.org/abs/2111.11165) | arXiv [cs.LG] |
@@ -76,7 +76,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Predictive Multiplicity in Classification](https://arxiv.org/abs/1909.06677) | arXiv [cs.ML] |
 | [Rashomon Capacity: A Metric for Predictive Multiplicity in Classification](https://arxiv.org/abs/2206.01295) | arXiv [cs.LG] |
 | [Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing](https://arxiv.org/abs/2208.04369) | arXiv [cs.LG] |
-| [Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance](https://openreview.net/forum?id=QHiuyzE69Bx) | N/A |
+| [Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance](https://openreview.net/forum?id=QHiuyzE69Bx) | OpenReview |
 | [Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy](https://dl.acm.org/doi/10.1023/A%3A1022859003006) | Mach. Learn. |
 
 ### Alignment and zero-shot alignment
@@ -85,10 +85,10 @@ We have gathered here a collection of relevant papers. Please note that this is 
 |--------------------------------------------------|-|
 | [Relative representations enable zero-shot latent space communication](https://arxiv.org/abs/2209.15430) | ICLR 2023 |
 | [ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training](https://arxiv.org/abs/2210.01738) | NeurIPS 2023 |
-| [Manifold alignment using Procrustes analysis](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1061&context=cs_faculty_pubs) | N/A |
+| [Manifold alignment using Procrustes analysis](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1061&context=cs_faculty_pubs) | arXiv |
 | [Bootstrapping Parallel Anchors for Relative Representations](https://arxiv.org/abs/2303.00721) | arXiv [cs.LG] |
 | [Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages(https://arxiv.org/abs/2306.16774)] | arXiv [cs.CL] |
-| [GeRA: Label-Efficient Geometrically Regularized Alignment](https://arxiv.org/abs/2310.00672#:~:text=Pretrained%20unimodal%20encoders%20incorporate%20rich,data%20for%20alignment%20and%20training.) | N/A |
+| [GeRA: Label-Efficient Geometrically Regularized Alignment](https://arxiv.org/abs/2310.00672#:~:text=Pretrained%20unimodal%20encoders%20incorporate%20rich,data%20for%20alignment%20and%20training.) | arXiv |
 | [Text-To-Concept (and Back) via Cross-Model Alignment](https://arxiv.org/abs/2305.06386) | arXiv [cs.CV] |
 
 ### Contrastive learning
