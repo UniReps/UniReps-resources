@@ -181,7 +181,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Anti-Distillation: Improving reproducibility of deep networks](https://arxiv.org/abs/2010.09923) | arXiv [cs.LG] |
 | [On the Reproducibility of Neural Network Predictions](https://arxiv.org/abs/2102.03349) | arXiv [cs.LG] |
 | [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/abs/1912.02757) | arXiv [stat.ML] |
-| [Measuring the Instability of Fine-Tuning] | arXiv [cs. CL] |
+| [Measuring the Instability of Fine-Tuning](https://arxiv.org/abs/2302.07778) | arXiv [cs. CL] |
 | [mCLIP: Multilingual CLIP via Cross-lingual Transfer](https://aclanthology.org/2023.acl-long.728/#:~:text=Large%2Dscale%20vision%2Dlanguage%20pretrained,%2DEnglish%20image%2Dtext%20pairs.) | N/A |
 | [Learning to Decompose Visual Features with Latent Textual Prompts](https://arxiv.org/abs/2210.04287) | arXiv [cs.CV] |
 | [Leveraging Task Structures for Improved Identifiability in Neural Network Representations](https://arxiv.org/abs/2306.14861) | ArXiv preprint |
