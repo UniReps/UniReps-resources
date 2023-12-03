@@ -72,7 +72,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Representational dissimilarity metric spaces for stochastic neural networks](https://arxiv.org/abs/2211.11665) | arXiv [cs.LG] |
 | [Graph-Based Similarity of Neural Network Representations](https://arxiv.org/abs/2111.11165) | arXiv [cs.LG] |
 | [Adaptive Geo-Topological Independence Criterion](https://arxiv.org/abs/1810.02923) | arXiv [stat.ML] |
-|[Using distance on the Riemannian manifold to compare representations in brain and in models | Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921005474) |
+|[Using distance on the Riemannian manifold to compare representations in brain and in models Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921005474) |
 | [Predictive Multiplicity in Classification](https://arxiv.org/abs/1909.06677) | arXiv [cs.ML] |
 | [Rashomon Capacity: A Metric for Predictive Multiplicity in Classification](https://arxiv.org/abs/2206.01295) | arXiv [cs.LG] |
 | [Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing](https://arxiv.org/abs/2208.04369) | arXiv [cs.LG] |
@@ -95,13 +95,13 @@ We have gathered here a collection of relevant papers. Please note that this is 
 
 | Title | Venue |
 |--------------------------------------------------|-|
-| Connecting Multi-modal Contrastive Representations | NeurIPS 2023 |
-| Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning | NeurIPS 2022 |
+| [Connecting Multi-modal Contrastive Representations](https://arxiv.org/abs/2305.14381) | NeurIPS 2023 |
+| [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | NeurIPS 2022 |
 | [ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding](https://arxiv.org/abs/2212.05171) | CVPR 2023 |
 | [Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model](https://arxiv.org/abs/2310.17653) | N/A |
 | [Identifiability Results for Multimodal Contrastive Learning](https://arxiv.org/abs/2303.09166) | ICLR 2023 |
-| UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning | N/A |
-| Understanding the Behaviour of Contrastive Loss | N/A |
+| [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2012.15409) | N/A |
+| [Understanding the Behaviour of Contrastive Loss](https://arxiv.org/abs/2012.09740) | N/A |
 
 ### Linear mode connectivity and model merging
 
@@ -109,13 +109,13 @@ We have gathered here a collection of relevant papers. Please note that this is 
 |-|-|
 | [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836) | ICLR 2023 |
 | [Model Fusion via Optimal Transport](https://arxiv.org/abs/1910.05653) | NeurIPS 2020 |
-| Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity | arXiv [cs.LG] |
-| REPAIR: REnormalizing Permuted Activations for Interpolation Repair | arXiv [cs.LG] |
-| Linear Mode Connectivity in Multitask and Continual Learning | N/A |
-| Optimizing Mode Connectivity via Neuron Alignment | N/A |
-| Traversing Between Modes in Function Space for Fast Ensembling | arXiv [cs.LG] |
-| An Empirical Study of Multimodal Model Merging | arXiv [cs.CV] |
-| Linear Mode Connectivity and the Lottery Ticket Hypothesis | N/A |
+| [Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity](https://arxiv.org/abs/2307.08286) | arXiv [cs.LG] |
+| [REPAIR: REnormalizing Permuted Activations for Interpolation Repair](https://arxiv.org/abs/2211.08403) | arXiv [cs.LG] |
+| [Linear Mode Connectivity in Multitask and Continual Learning](https://arxiv.org/abs/2010.04495) | arXiv |
+| [Optimizing Mode Connectivity via Neuron Alignment](https://proceedings.neurips.cc/paper/2020/file/aecad42329922dfc97eee948606e1f8e-Paper.pdf) | arXiv |
+| [Traversing Between Modes in Function Space for Fast Ensembling](https://arxiv.org/abs/2306.11304) | arXiv [cs.LG] |
+| [An Empirical Study of Multimodal Model Merging](https://arxiv.org/abs/2304.14933) | arXiv [cs.CV] |
+| [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671) | N/A |
 | Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling | N/A |
 | Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs | N/A |
 | The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks | N/A |
