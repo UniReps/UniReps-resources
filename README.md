@@ -134,11 +134,11 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | Title | Venue |
 |--------------------------------------------------|-|
 | [Domain Translation via Latent Space Mapping](https://arxiv.org/abs/2212.03361) |IJCNN 2023 |
-| Do Vision Transformers See Like Convolutional Neural Networks? | N/A |
-| Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth | N/A |
-| LiT: Zero-Shot Transfer with Locked-image text Tuning | arXiv [cs.CV] |
-| On Linear Identifiability of Learned Representations | N/A |
-| Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation | N/A |
+| [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810) | N/A |
+| [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327) | N/A |
+| [LiT: Zero-Shot Transfer with Locked-image text Tuning](https://arxiv.org/abs/2111.07991) | arXiv [cs.CV] |
+| [On Linear Identifiability of Learned Representations](https://arxiv.org/abs/2007.00810) | N/A |
+| [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://www.researchgate.net/publication/328598982_Towards_Understanding_Learning_Representations_To_What_Extent_Do_Different_Neural_Networks_Learn_the_Same_Representation) | N/A |
 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | ICML 2022 |
 | [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | ICLR 2023 |
 | Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models | arXiv [cs.LG] |
