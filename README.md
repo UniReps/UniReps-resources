@@ -61,22 +61,22 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [An analysis of diversity measures](https://link.springer.com/article/10.1007/s10994-006-9449-2) | Mach. Learn. |
 | [Understanding the Dynamics of DNNs Using Graph Modularity](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_14) | arXiv [cs.CV] |
 | [Similarity of Neural Networks with Gradients](https://arxiv.org/abs/2003.11498) | arXiv [cs.LG] |
-| [Representation Topology Divergence: A Method for Comparing Neural Network Representations](https://arxiv.org/abs/2201.00058) | N/A |
-| [Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics](https://arxiv.org/abs/2012.03793) | arXiv [cs.LG] |
-| [Understanding image representations by measuring their equivariance and equivalence] (https://arxiv.org/abs/1411.5908) | N/A |
-| Insights on representational similarity in neural networks with canonical correlation | N/A |
-| Understanding metric-related pitfalls in image analysis validation | arXiv [cs.CV] |
-| Revisiting Model Stitching to Compare Neural Representations | N/A |
-| Similarity and Matching of Neural Network Representations | N/A |
-| Topology of Deep Neural Networks | J. Mach. Learn. Res. |
-| Representational dissimilarity metric spaces for stochastic neural networks | arXiv [cs.LG] |
-| Graph-Based Similarity of Neural Network Representations | arXiv [cs.LG] |
-| Adaptive Geo-Topological Independence Criterion | arXiv [stat.ML] |
-| Using distance on the Riemannian manifold to compare representations in brain and in models | Neuroimage |
-| Predictive Multiplicity in Classification | N/A |
-| Rashomon Capacity: A Metric for Predictive Multiplicity in Classification | arXiv [cs.LG] |
-| Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing | arXiv [cs.LG] |
-| Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance | N/A |
+| [Representation Topology Divergence: A Method for Comparing Neural Network Representations](https://arxiv.org/abs/2201.00058) | arXiv [cs.LG]  |
+| [Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics](https://arxiv.org/abs/2012.03793) | arXiv [cs.LG]|
+| [Understanding image representations by measuring their equivariance and equivalence](https://arxiv.org/abs/1411.5908) | arXiv [cs.LG]  |
+| [Insights on representational similarity in neural networks with canonical correlation](https://arxiv.org/abs/1806.05759) | arXiv |
+| [Understanding metric-related pitfalls in image analysis validation](https://arxiv.org/abs/2302.01790) | arXiv [cs.CV] |
+| [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/abs/2106.07682) | arXiv  |
+| [Similarity and Matching of Neural Network Representations](https://arxiv.org/abs/2110.14633) | N/A |
+| [Topology of Deep Neural Networks](https://arxiv.org/abs/2110.14633) | J. Mach. Learn. Res. |
+| [Representational dissimilarity metric spaces for stochastic neural networks](https://arxiv.org/abs/2211.11665) | arXiv [cs.LG] |
+| [Graph-Based Similarity of Neural Network Representations](https://arxiv.org/abs/2111.11165) | arXiv [cs.LG] |
+| [Adaptive Geo-Topological Independence Criterion](https://arxiv.org/abs/1810.02923) | arXiv [stat.ML] |
+|[Using distance on the Riemannian manifold to compare representations in brain and in models | Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921005474) |
+| [Predictive Multiplicity in Classification](https://arxiv.org/abs/1909.06677) | arXiv [cs.ML] |
+| [Rashomon Capacity: A Metric for Predictive Multiplicity in Classification](https://arxiv.org/abs/2206.01295) | arXiv [cs.LG] |
+| [Understanding Weight Similarity of Neural Networks via Chain Normalization Rule and Hypothesis-Training-Testing](https://arxiv.org/abs/2208.04369) | arXiv [cs.LG] |
+| [Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance](https://openreview.net/forum?id=QHiuyzE69Bx) | N/A |
 | [Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy](https://dl.acm.org/doi/10.1023/A%3A1022859003006) | Mach. Learn. |
 
 ### Alignment and zero-shot alignment
