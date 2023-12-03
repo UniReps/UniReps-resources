@@ -56,14 +56,14 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability](https://arxiv.org/abs/1706.05806) | NeurIPS 2017 |
 | [Measuring similarity for clarifying layer difference in multiplex ad hoc duplex information networks](https://www.sciencedirect.com/science/article/abs/pii/S1751157719301890) | J. Informetr. |
 | [Reliability of CKA as a Similarity Measure in Deep Learning](https://arxiv.org/abs/2210.16156) | ICLR 2023 |
-| Transferred Discrepancy: Quantifying the Difference Between Representations | arXiv [cs.LG] |
-| Diversity creation methods: a survey and categorisation | Inf. Fusion |
-| An analysis of diversity measures | Mach. Learn. |
-| Understanding the Dynamics of DNNs Using Graph Modularity | arXiv [cs.CV] |
-| Similarity of Neural Networks with Gradients | arXiv [cs.LG] |
-| Representation Topology Divergence: A Method for Comparing Neural Network Representations | N/A |
-| Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics | arXiv [cs.LG] |
-| Understanding image representations by measuring their equivariance and equivalence | N/A |
+| [Transferred Discrepancy: Quantifying the Difference Between Representations](https://arxiv.org/abs/2007.12446) | arXiv [cs.LG] |
+| [Diversity creation methods: a survey and categorisation](https://www.sciencedirect.com/science/article/abs/pii/S1566253504000375) | Inf. Fusion |
+| [An analysis of diversity measures](https://link.springer.com/article/10.1007/s10994-006-9449-2) | Mach. Learn. |
+| [Understanding the Dynamics of DNNs Using Graph Modularity](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_14) | arXiv [cs.CV] |
+| [Similarity of Neural Networks with Gradients](https://arxiv.org/abs/2003.11498) | arXiv [cs.LG] |
+| [Representation Topology Divergence: A Method for Comparing Neural Network Representations](https://arxiv.org/abs/2201.00058) | N/A |
+| [Inter-layer Information Similarity Assessment of Deep Neural Networks Via Topological Similarity and Persistence Analysis of Data Neighbour Dynamics](https://arxiv.org/abs/2012.03793) | arXiv [cs.LG] |
+| [Understanding image representations by measuring their equivariance and equivalence] (https://arxiv.org/abs/1411.5908) | N/A |
 | Insights on representational similarity in neural networks with canonical correlation | N/A |
 | Understanding metric-related pitfalls in image analysis validation | arXiv [cs.CV] |
 | Revisiting Model Stitching to Compare Neural Representations | N/A |
