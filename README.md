@@ -117,7 +117,7 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [An Empirical Study of Multimodal Model Merging](https://arxiv.org/abs/2304.14933) | arXiv [cs.CV] |
 | [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671) | arXiv |
 | [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) | arXiv |
-| [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs) | arXiv |
+| [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://arxiv.org/abs/1802.10026) | arXiv |
 | [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://arxiv.org/abs/2110.06296) | arXiv |
 | [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/abs/1803.00885) | arXiv |
 
@@ -161,17 +161,17 @@ We have gathered here a collection of relevant papers. Please note that this is 
 | [Modular Networks: Learning to Decompose Neural Computation](https://arxiv.org/abs/1811.05249) | arXiv |
 | [Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization](https://arxiv.org/abs/2212.10445) | arXiv [cs.LG] |
 | [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3) | BioArxiv |
-| Alignment with human representations supports robust few-shot learning | arXiv [cs.LG] |
-| SHARCS: Shared Concept Space for Explainable Multimodal Learning | arXiv [cs. LG] |
-| Prevalence of Neural Collapse during the terminal phase of deep learning training | arXiv [cs.LG] |
-| Convergent Learning: Do different neural networks learn the same representations? | N/A |
-| Controlling Text-to-Image Diffusion by Orthogonal Finetuning | arXiv [cs.CV] |
-| CLIPMasterPrints: Fooling Contrastive Language-Image Pre-training Using Latent Variable Evolution | arXiv [cs.CV] |
-| On the Symmetries of Deep Learning Models and their Internal Representations | arXiv [cs.LG] |
-| Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change | N/A |
-| The Effects of Randomness on the Stability of Node Embeddings | arXiv [cs.LG] |
-| Representation of object similarity in human vision: psychophysics and a computational model | Vision Res. |
-| Mechanistic Mode Connectivity | arXiv [cs.LG] |
+| [Alignment with human representations supports robust few-shot learning](https://arxiv.org/abs/2301.11990) | arXiv [cs.LG] |
+| [SHARCS: Shared Concept Space for Explainable Multimodal Learning](https://arxiv.org/abs/2307.00316#:~:text=SHARCS%20learns%20and%20maps%20interpretable,semantically%20similar%20cross%2Dmodal%20concepts.) | arXiv [cs. LG] |
+| [Prevalence of Neural Collapse during the terminal phase of deep learning training](https://www.pnas.org/doi/10.1073/pnas.2015509117) | arXiv [cs.LG] |
+| [Convergent Learning: Do different neural networks learn the same representations?](https://arxiv.org/abs/1511.07543) | N/A |
+| [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://arxiv.org/abs/2306.07280) | arXiv [cs.CV] |
+| [CLIPMasterPrints: Fooling Contrastive Language-Image Pre-training Using Latent Variable Evolution](https://arxiv.org/abs/2307.03798) | arXiv [cs.CV] |
+| [On the Symmetries of Deep Learning Models and their Internal Representations](https://arxiv.org/abs/2205.14258) | arXiv [cs.LG] |
+| [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://arxiv.org/abs/1605.09096) | N/A |
+| [The Effects of Randomness on the Stability of Node Embeddings](https://arxiv.org/abs/2005.10039) | arXiv [cs.LG] |
+| [Representation of object similarity in human vision: psychophysics and a computational model](https://www.sciencedirect.com/user/identity/landing?code=UF-keJ3a_As5aXGU4SfzIyz5Oe7hYhpdIQlxXpH0&state=retryCounter%3D0%26csrfToken%3D5bfa1a3e-8181-406b-a211-7c0aa7bdfee8%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698997001867%26prompt%3Dnone%26cid%3Darp-5591a3ec-5924-4f10-a530-5f1f2785fd1b) | Vision Res. |
+| [Mechanistic Mode Connectivity](https://arxiv.org/abs/2211.08422) | arXiv [cs.LG] |
 | Feature learning in deep classifiers through Intermediate Neural Collapse | N/A |
 | Bootstrapping Vision-Language Learning with Decoupled Language Pre-training | arXiv [cs.CV] |
 | Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning | N/A |
